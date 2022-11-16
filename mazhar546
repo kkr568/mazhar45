@@ -1,6 +1,6 @@
 <html>
     <body>
-        <h2>student details</h2>
+        <h2>person details</h2>
         <p id="demo"></p>
         <p id="demo1"></p>
         <p id="demo2"></p>
