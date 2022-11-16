@@ -1,0 +1,17 @@
+<html>
+    <body>
+        <h2>student details</h2>
+        <p id="demo"></p>
+        <p id="demo1"></p>
+        <p id="demo2"></p>
+        <p id="demo3"></p>
+        <script>
+            const myres={name:"rr",regno:"446cs20019",branch:"cs",mobileno:9110833256};
+            
+            document.getElementById("demo").innerHTML=myres.name;
+            document.getElementById("demo1").innerHTML=myres.regno;
+            document.getElementById("demo2").innerHTML=myres.branch;
+            document.getElementById("demo3").innerHTML=myres.mobileno;
+        </script>
+    </body>
+</html>
